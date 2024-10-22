@@ -1,0 +1,12 @@
+# Bỏ qua thư mục biên dịch
+/bin/
+/obj/
+
+# Bỏ qua các file tạm thời
+*.tmp
+*.log
+
+# Bỏ qua các file nhị phân
+*.exe
+*.exe~
+*.out
